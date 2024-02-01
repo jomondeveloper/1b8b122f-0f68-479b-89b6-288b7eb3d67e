@@ -18,27 +18,27 @@ AssessmentPro is a CLI application designed to generate different types of repor
 
 Clone the repository to your local machine:
 
-```bash
+
 git clone git@github.com:jomondeveloper/1b8b122f-0f68-479b-89b6-288b7eb3d67e.git
 cd 1b8b122f-0f68-479b-89b6-288b7eb3d67e
 
 Install the necessary dependencies:
-
 ```bash
 npm install
-
+```
 ### Running the Application
 
 To run the application, execute:
-
+```bash
 npm run app
-
+```
 Follow the prompts to enter the Student ID and select the type of report to generate.
 
 ### Sample Usage
 
 Please enter the following
 Student ID: student1
+
 Report to generate (1 for Diagnostic, 2 for Progress, 3 for Feedback): 1
 
 ###Sample Output
@@ -70,9 +70,9 @@ Hint: You must first arrange the numbers in ascending order. The median is the m
 ### Running Tests
 
 To run automated tests, use the following command:
-
+```bash
 npm run test
-
+```
 ### Continuous Integration
 This project uses GitHub Actions for continuous integration, automatically running tests for each push or pull request.
 
