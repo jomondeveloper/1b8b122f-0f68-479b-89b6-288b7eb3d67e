@@ -18,10 +18,11 @@ AssessmentPro is a CLI application designed to generate different types of repor
 
 Clone the repository to your local machine:
 
-
+```bash
 git clone git@github.com:jomondeveloper/1b8b122f-0f68-479b-89b6-288b7eb3d67e.git
 
 cd 1b8b122f-0f68-479b-89b6-288b7eb3d67e
+```
 
 Install the necessary dependencies:
 ```bash
